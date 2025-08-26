@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+.env
+.venv/
+*.db
+
+# LangChain / Chroma
+app/chroma_bible/
+*.pkl
+*.jsonl
+
+# Node.js (ElizaOS)
+eliza_service/node_modules/
+eliza_service/package-lock.json
+
+# Streamlit
+.streamlit/
+*.toml
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

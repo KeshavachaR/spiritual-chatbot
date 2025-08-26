@@ -1,0 +1,10 @@
+
+{
+  "name": "eliza-service",
+  "version": "1.0.0", 
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2", 
+    "body-parser": "^1.20.2"
+  }
+}

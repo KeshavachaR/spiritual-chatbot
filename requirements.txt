@@ -1,0 +1,15 @@
+# requirements.txt
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+langchain
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters
+chromadb
+sentence-transformers
+python-dotenv
