@@ -33,7 +33,7 @@ A modular, scripture-grounded AI companion built with FastAPI, LangChain, Stream
    uvicorn app.main:app --reload
 
    # Launch Streamlit frontend
-   streamlit run app/ui.py
+   streamlit run streamlit_app.py
 
 ## Architecture Overview
 
